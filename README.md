@@ -55,7 +55,7 @@
    ```
 3. Откройте и запустите Jupyter Notebook:
    ```
-   jupyter notebook iris_classification.ipynb
+   jupyter notebook Multiclass_classification_on_iris_flower_data.ipynb
    ```
 
 ## Зависимости
