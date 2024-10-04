@@ -47,7 +47,7 @@
 
 1. Клонируйте репозиторий:
    ```
-   git clone https://github.com/your-username/iris-classification.git
+   git clone https://github.com/mms-tbe/Multiclass-classification-on-iris-flower-data
    ```
 2. Установите необходимые зависимости:
    ```
